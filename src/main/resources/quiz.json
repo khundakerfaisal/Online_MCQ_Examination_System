@@ -1,0 +1,114 @@
+[
+  {
+    "answerkey": 3,
+    "option 3": "V Model",
+    "option 4": "Spiral Model",
+    "question": "STLC is related to",
+    "option 1": "RAD Model",
+    "option 2": "Agile Model"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Tester",
+    "option 4": "Client",
+    "question": "Beta Testing will be done by",
+    "option 1": "Developer",
+    "option 2": "User"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Exploratory testing",
+    "option 4": "performance testing",
+    "question": "AdHoc testing is a part of",
+    "option 1": "Unit testing",
+    "option 2": "Regression testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Boundary value analysis",
+    "option 4": "Usability testing",
+    "question": "Which of the following is a form of fuctional testing?",
+    "option 1": "Security testing",
+    "option 2": "Performance testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Condition testing",
+    "option 4": "Boundary value analysis",
+    "question": "Which of the following techniques is Not a white box technique?",
+    "option 1": "Statement testing and coverage",
+    "option 2": "Decision testing and coverage"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Error guessing",
+    "option 4": "Walkthrough",
+    "question": "Which of the following is not a static testing technique?",
+    "option 1": "Inspections",
+    "option 2": "Data flow analysis"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Clear box testing",
+    "option 4": "Static testing",
+    "question": "White box techniques are also calles as?",
+    "option 1": "Design based testing",
+    "option 2": "Exploratory Testing"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "impractical and impossible",
+    "option 4": "Always Possible",
+    "question": "Exhaustive Testing is?",
+    "option 1": "impractical but possible",
+    "option 2": "Partically possible"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Decision table testing",
+    "option 4": "Adhoc Testing",
+    "question": "Which is whitebox testing technique?",
+    "option 1": "Equivalent Partitioning",
+    "option 2": "Boundary value testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "V model",
+    "option 4": "Spiral Model",
+    "question": "Which of the following is not Iterative Model?",
+    "option 1": "RAD",
+    "option 2": "Incremental"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Support plan",
+    "option 4": "All of these",
+    "question": "Test plans are based on?",
+    "option 1": "Project plan",
+    "option 2": "Business plan"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Test Requirement",
+    "option 4": "Test Configuration",
+    "question": "In which phase we create the test case?",
+    "option 1": "Test Specification",
+    "option 2": "Test Planning"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Fuzz testing",
+    "option 4": "End-to-End testing",
+    "question": "Which testing is performed during planning and documentation phase?",
+    "option 1": "Ad-hoc testing",
+    "option 2": "Monkey testing"
+  }
+]

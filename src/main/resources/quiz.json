@@ -110,5 +110,133 @@
     "question": "Which testing is performed during planning and documentation phase?",
     "option 1": "Ad-hoc testing",
     "option 2": "Monkey testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Usability testing",
+    "option 4": "Component testing",
+    "question": "Focus testing come under",
+    "option 1": "Performance testing",
+    "option 2": "Acceptance testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Stress testing",
+    "option 4": "All of these",
+    "question": "Testing beyond normal operational capacity is?",
+    "option 1": "Load testing",
+    "option 2": "Performance testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Smoke and sanity tests can be executed using an automation tool",
+    "option 4": "When executing both, then first execute sanity testing tests and then smoke Testing",
+    "question": "Which is not true regarding smoke and sanity testing?",
+    "option 1": "Sanity Testing is also called tester acceptance testing",
+    "option 2": "Smoke testing performed on a particular build is also known as a build verification test"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Sanity testing is a cursory testing",
+    "option 4": "Sanity testing is High Level Testing",
+    "question": "Which is not true in case of sanity testing?",
+    "option 1": "Sanity test is a narrow regression testing",
+    "option 2": "Sanity test is usually unscripted"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Big bang testing",
+    "option 4": "Sandwich integration testing",
+    "question": "Defects can be found more easily in",
+    "option 1": "Bottom up integration testing",
+    "option 2": "Top down integration testing"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "In this tester evaluates if individual units of source code are fit for use",
+    "option 4": "It is usually conducted by the development team",
+    "question": "Which is not true in case of Unit testing?",
+    "option 1": "It decreases the software development speed",
+    "option 2": "It can’t be expected to catch every error in a program"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "V Model",
+    "option 4": "Spiral model",
+    "question": "STLC is related to which model?",
+    "option 1": "Waterfall model",
+    "option 2": "RAD model"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Dynamic testing",
+    "option 4": "Static testing",
+    "question": "Which Testing is performed first?",
+    "option 1": "Black box testing",
+    "option 2": "White box testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Stress  testing",
+    "option 4": "All of these",
+    "question": "Testing beyond normal operational capacity is",
+    "option 1": "Load testing",
+    "option 2": "Performance testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Tester",
+    "option 4": "QA Team",
+    "question": "Verification is the responsibility of",
+    "option 1": "Developer",
+    "option 2": "Designer"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Critical",
+    "option 4": "Postponed",
+    "question": "Which is not the state of bug in bug Life Cycle?",
+    "option 1": "Verified",
+    "option 2": "Deferred"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Both",
+    "option 4": "None",
+    "question": "Which activity is carried out first?",
+    "option 1": "Verification",
+    "option 2": "Validation"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Analysis",
+    "option 4": "All of the above",
+    "question": "Which of the following are a phases of SDLC?",
+    "option 1": "Requirement gathering",
+    "option 2": "Maintenance"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Iterative model",
+    "option 4": "All of the above",
+    "question": "Regression Testing is a major part of which of the life cycle?",
+    "option 1": "Waterfall model",
+    "option 2": "V model"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Deployment phase",
+    "option 4": "Testing closure",
+    "question": "Which of the following is not a valid phase of SDLC ",
+    "option 1": "Testing Phase",
+    "option 2": "Requirement Phase"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Black box testing",
+    "option 4": "None of the above",
+    "question": "Which of the following testing is related to the boundary value analysis?",
+    "option 1": "White box and black box testing",
+    "option 2": "White-box testing"
   }
 ]

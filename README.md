@@ -3,9 +3,10 @@
 - Install Intellij IDEA community Edition
 - Install jdk-17.0.8
 ## About this project
-This is Online MCQ examination project.Here Admin and student both can login with credential but role are different. Admin can add question start with press  "s"
-button and if Exit to add quistion press "q" button.Student can give MCQ exam with press start "s" button each exam student can view 10 question one by one and student
-can entered answer with the option.if 10 question completed student can start new exam or quit the exam press "q" button.
+This is an Online MCQ examination project. Here Admin and student both can login with credentials but their roles are different. 
+Admin can add question start with by pressing "s" button and Exit by pressing "q" button. Students can take the MCQ exam by pressing
+the start "s" button each exam students can view 10 questions one by one and the students can choose answers within the options.
+if 10 questions are completed student can start a new exam or quit the exam by pressing the "q" button.
 
 ## How to run this project
 - Clone this project: ```https://github.com/khundakerfaisal/Online_MCQ_Examination_System```
